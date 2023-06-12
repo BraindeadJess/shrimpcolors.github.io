@@ -1,0 +1,61 @@
+header{
+    background-color: #ccffff; 
+    width: 100%; 
+    height: 200px;
+}
+footer{
+    background-color: #339900;
+    width: 100%;
+    height: 200px;
+}
+body{background-color: #006600;}
+h1{color: #ffffcc;}
+td{width:200px; height:200px; text-align: center;}
+#tabel11{
+    background-color: #99ffcc; color: #ff00ff;
+}
+#tabel12{
+    background-color: #99cccc;
+}
+#tabel13{
+    background-color: #66ffcc; color: #ff00cc;
+}
+#tabel14{
+    background-color: #66cccc;
+}
+#tabel21{
+    background-color: #99ff99; color: #ff0099;
+}
+#tabel22{
+    background-color: #99cc99;
+}
+#tabel23{
+    background-color: #66ff99; color: #ff0066;
+}
+#tabel24{
+    background-color: #66cc99;
+}
+#tabel31{
+    background-color: #99ff66; color: #ff0033;
+}
+#tabel32{
+    background-color: #99cc66;
+}
+#tabel33{
+    background-color: #66ff66; color: #ff0000;
+}
+#tabel34{
+    background-color: #66cc66;
+}
+#tabel41{
+    background-color: #99ff33; color: #cc00ff;
+}
+#tabel42{
+    background-color: #99cc33;
+}
+#tabel43{
+    background-color: #66ff33; color: #cc00cc;
+}
+#tabel44{
+    background-color: #66cc33;
+}
